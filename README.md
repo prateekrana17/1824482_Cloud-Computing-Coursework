@@ -8,8 +8,11 @@ Local Apllication: SparkWCApp
 This application runs on an Ubuntu Virtual Machine. Requirements to run the application:
 
 -Create an Ubuntu VM using Oracle Virtual Box or any other hypervisors.
+
 -Update Packages
+
 -Install the following packages: Java, Scala, Python 3.9, Apache Spark 3.0.1 with hadoop 2.7
+
 -Configure the Spark enviironment by editing .bashrc file
 
 
