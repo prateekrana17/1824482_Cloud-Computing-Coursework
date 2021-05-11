@@ -18,8 +18,11 @@ This application runs on an Ubuntu Virtual Machine. Requirements to run the appl
 
 Running the script:
 -Start an Apache Spark cluster with one master and one worker node 
+
 -Download the GitHub repository
+
 -Command demonstration: python3 SparkWCApp.py store /input  sample-a.txt
+
   - Argument 1 (store): The directory containing the input folder 
   - Argument 2 (store/input): The directory contatining the input sample text files
   - Argument 3 (sample-a.txt): The name of the sample text file.
