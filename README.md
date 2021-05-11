@@ -28,3 +28,4 @@ Running the script:
   - Argument 3 (sample-a.txt): The name of the sample text file.
 
 
+Please note that Input 1 for the EMR application has been split into two text files as it was larger than GitHub's 25MB upload limit
